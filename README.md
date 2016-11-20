@@ -6,6 +6,8 @@ TL;DR
 
 # やろうとしたこと
 
+前回 https://github.com/egmc/marumo
+
 ## linebot -> slack移行
 
  - LINEで家庭用のbot作ってた
